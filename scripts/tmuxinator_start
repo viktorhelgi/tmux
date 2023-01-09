@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ "$1" == "" ]; then
+    echo ""
+else
+    tmuxinator start $1
+fi
