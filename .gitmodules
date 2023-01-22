@@ -4,6 +4,3 @@
 [submodule "plugins/tmux-power"]
 	path = plugins/tmux-power
 	url = https://github.com/viktorhelgi/tmux-power
-[submodule "other/work"]
-	path = other/work
-	url = https://github.com/ViktorHefringMarine/tmux-fzf.git
