@@ -13,3 +13,6 @@
 [submodule "plugins/tmux-sensible"]
 	path = plugins/tmux-sensible
 	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "plugins/tmux-sessionist"]
+	path = plugins/tmux-sessionist
+	url = https://github.com/tmux-plugins/tmux-sessionist
