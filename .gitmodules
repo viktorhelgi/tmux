@@ -7,3 +7,6 @@
 [submodule "plugins/tmux-menus"]
 	path = plugins/tmux-menus
 	url = https://github.com/jaclu/tmux-menus
+[submodule "plugins/tmux-pain-control"]
+	path = plugins/tmux-pain-control
+	url = https://github.com/tmux-plugins/tmux-pain-control
