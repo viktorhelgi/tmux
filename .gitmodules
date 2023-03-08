@@ -10,3 +10,6 @@
 [submodule "plugins/tmux-pain-control"]
 	path = plugins/tmux-pain-control
 	url = https://github.com/tmux-plugins/tmux-pain-control
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
