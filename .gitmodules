@@ -16,3 +16,6 @@
 [submodule "plugins/tmux-sessionist"]
 	path = plugins/tmux-sessionist
 	url = https://github.com/tmux-plugins/tmux-sessionist
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
