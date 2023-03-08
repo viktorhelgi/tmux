@@ -4,3 +4,6 @@
 [submodule "plugins/tmux-power"]
 	path = plugins/tmux-power
 	url = https://github.com/viktorhelgi/tmux-power
+[submodule "plugins/tmux-menus"]
+	path = plugins/tmux-menus
+	url = https://github.com/jaclu/tmux-menus
